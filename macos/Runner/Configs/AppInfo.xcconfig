@@ -1,0 +1,5 @@
+PRODUCT_NAME = cluck_way_app
+
+PRODUCT_BUNDLE_IDENTIFIER = com.cluckway.app.cluckWayApp
+
+PRODUCT_COPYRIGHT = Copyright © 2025 com.cluckway.app. All rights reserved.
